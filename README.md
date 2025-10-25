@@ -20,8 +20,7 @@ It allows users to easily convert temperature values between **Celsius** and **F
 
 ---
 
-## 🖥️ Screenshot *(optional)*
-> Add a screenshot of your application here, e.g.:  
+## 🖥️ Screenshot *(optional)*  
 > ![App Screenshot](sshot.png)
 
 ---
